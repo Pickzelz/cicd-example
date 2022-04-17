@@ -5,6 +5,6 @@
     <title>Title</title>
 </head>
 <body>
-    <?= "Hello World HAHA" ?>
+    <?= "Hello World" ?>
 </body>
 </html>
